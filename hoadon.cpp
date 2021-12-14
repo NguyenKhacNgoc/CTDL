@@ -1,5 +1,4 @@
 #include<bits\stdc++.h>
-#include "vattu.cpp"
 using namespace std;
 struct HoaDon
 {
@@ -467,11 +466,7 @@ void MenuHD()
 	}
 	while(menu!=0);
 }
-int main(int argc, char const *argv[])
-{
-	MenuHD();
-	return 0;
-}
+
 
 
 
